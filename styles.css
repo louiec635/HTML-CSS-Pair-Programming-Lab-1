@@ -2,11 +2,19 @@ body {
   margin: 0;
 }
 
-header {
+header, footer {
   background-color: rgb(38, 38, 38);
+}
+
+footer {
+  color: white;
 }
 
 header > h1 {
   color: rgb(225, 114, 48);
   margin: 0;
+}
+
+a {
+  color: rgb(225, 114, 48);
 }
