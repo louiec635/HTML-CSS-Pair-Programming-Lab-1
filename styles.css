@@ -25,12 +25,24 @@ a {
 }
 
 #column-1 {
-  width: 400px;
+  display: flex;
+  width: 900px;
   margin-right: 0;
 }
 
 #column-2 {
+  margin: auto;
   width: 400px;
   background-color: rgb(223, 223, 223);
-  margin-left: auto;
+  
+}
+
+img {
+  margin: 25px;
+  width: 175px;
+  height: 175px;
+}
+
+#content {
+  
 }
