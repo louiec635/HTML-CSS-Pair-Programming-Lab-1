@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(38, 38, 38);
+}
+
+header > h1 {
+  color: rgb(225, 114, 48);
+  margin: 0;
+}
